@@ -13,7 +13,7 @@ $date_yyyy=date('Y');
 $host = 'localhost';
 $db   = 'stc_logkeeper';
 $user = 'root';
-$pass = 'Emiloi21';
+$pass = '';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
